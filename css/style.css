@@ -1,0 +1,21 @@
+nav{
+   background-color: #009bdd !important;
+}
+footer{
+   background-color: #009bdd !important;
+}
+
+.logo{
+   margin: 0.8vw;
+}
+
+.marginSocialMedia{
+   margin: 1vw;
+}
+.marginSocialMedia:hover{
+   margin: 1vw;
+   -webkit-box-shadow: 7px 14px 75px 17px rgba(0,69,150,1);
+   -moz-box-shadow: 7px 14px 75px 17px rgba(0,69,150,1);
+   box-shadow: 7px 14px 75px 17px rgba(0,69,150,1);
+}
+
